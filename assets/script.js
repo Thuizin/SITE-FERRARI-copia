@@ -18,5 +18,5 @@ ferrari.style.opacity = "0";
 window.addEventListener('load', function() {
     this.setTimeout(function(){
         menu.style.opacity = "1";
-    }, 1000);
+    }, 3000);
 });
