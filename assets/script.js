@@ -7,12 +7,12 @@ ferrari.style.opacity = "0";
 //     }, 3000);
 // });
 
-for(let x = 0; x <= 10; x++){
-    ferrari.style.opacity = "1";
-}
-for(x = 10; x <= 20; x++){
-    ferrari.style.opacity = "0";
-}
+// for(let x = 0; x <= 10; x++){
+//     ferrari.style.opacity = "1";
+// }
+// for(x = 10; x <= 20; x++){
+//     ferrari.style.opacity = "0";
+// }
 
 
 // MENU APARECER
@@ -22,6 +22,8 @@ window.addEventListener('load', function() {
     menu.style.opacity = "1";
     }, 3000);
 });
+
+
 
 
 
