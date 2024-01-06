@@ -1,3 +1,12 @@
+@charset "UTF-8";
+/* START CSS*/
+
+:root{
+
+--cinza: #353535;
+
+}
+
 *{
     margin: 0;
     padding: 0;
