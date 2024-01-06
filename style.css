@@ -49,5 +49,6 @@
     top: 50%;
     left: 50%;
     transform: translate(-50%, -50%);
-    transition: all 1s ease;
+    transition: all 3s ease;
+    /* opacity: 0; */
 }
