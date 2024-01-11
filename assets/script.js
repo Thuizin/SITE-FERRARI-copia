@@ -1,15 +1,7 @@
-
 // MENU APARECER
-let menu = document.getElementById("menu");
+let container = document.getElementById("container");
 window.addEventListener('load', function() {
     setTimeout(function() {
-    menu.style.opacity = "1";
+    container.style.opacity = "1";
     }, 3000);
 });
-
-
-
-
-
-
-
