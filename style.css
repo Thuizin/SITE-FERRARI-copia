@@ -142,23 +142,21 @@ video {
     position: absolute;
 }
 
-.baixo i:hover {
-    border-color: #ff0000; 
-    animation: rotateBorder 2s linear; 
+
+/* CARDS */
+/* #card{
+    margin-top: 70vh;
+    display: flex;
+    align-items: center;
+    padding: 100px;
 }
+#card .esquerda .text{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    left: 100px;
+} */
 
-@keyframes rotateBorder {
-    0% {
-        border: 2px solid #ccc; 
-    }
-    100% {
-        border: 2px solid #ff0000; 
-        transform: rotate(360deg);
-    }
-}
-
-
-    
 
 
 
@@ -174,6 +172,8 @@ video {
         opacity: 0;
     }
 }
+
+
 
 
 
